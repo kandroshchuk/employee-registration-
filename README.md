@@ -1,6 +1,6 @@
-#Basic Project
+#Employee Registration Project
 
-*Simple Java Project*
+*Employee Registration Java Project*
 
 **Java 7
 
